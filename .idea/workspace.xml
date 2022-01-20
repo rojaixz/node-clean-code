@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8c6ea8a-ab3d-4e18-afb7-8c3dcaedd0e5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.huskyrc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.lintstagedrc.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1642622586761</updated>
       <workItem from="1642622587986" duration="3458000" />
-      <workItem from="1642681959330" duration="11498000" />
+      <workItem from="1642681959330" duration="13621000" />
     </task>
     <servers />
   </component>
