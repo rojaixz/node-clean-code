@@ -2,29 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8c6ea8a-ab3d-4e18-afb7-8c3dcaedd0e5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/controllers/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/controllers/register-vehicle.ts.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/helpers/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/helpers/vehicle-model-helper.ts.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/interfaces/http-interface.ts.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/interfaces/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/models/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/models/vehicle-model.ts.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/register-vehicle.ts.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/errors/client-error.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/http-interface.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/coverage/clover.xml" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/clover.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/coverage/coverage-final.json" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/coverage-final.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/controllers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/controllers/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/controllers/register-vehicle.ts.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/controllers/register-vehicle.ts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/errors/client-error.ts.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/errors/client-error.ts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/errors/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/errors/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/helpers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/helpers/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/helpers/vehicle-model-helper.ts.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/helpers/vehicle-model-helper.ts.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/coverage/lcov-report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/interfaces/http-interface.ts.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/interfaces/http-interface.ts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/interfaces/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/interfaces/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/models/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/models/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/models/vehicle-model.ts.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/models/vehicle-model.ts.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/coverage/lcov.info" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jest.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/jest.config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_tests_/register-vehicle.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/_tests_/register-vehicle.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_tests_/vehiculeModel.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/_tests_/vehiculeModel.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controllers/register-vehicle.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/register-vehicle.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helpers/vehicle-model-helper.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/helpers/vehicle-model-helper.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/vehicle-model.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/vehicle-model.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_tests_/protocols-http.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/_tests_/protocols-http.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/errors/invalid-arg.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/errors/invalid-arg.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/protocols/protocols-http.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/protocols/protocols-http.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +49,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="C:\Users\rojai\Documents\proyectos\NODE\node-clean-code\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -62,6 +58,26 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\rojai\Documents\proyectos\NODE\node-clean-code\src" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Protocols Http and Querys" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/src/_tests_/protocols-http.spec.ts" />
+      <test-names>
+        <test-name value="Protocols Http and Querys" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.Protocols Http and Querys" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -76,7 +92,8 @@
       <workItem from="1642776972002" duration="9872000" />
       <workItem from="1642853689873" duration="2127000" />
       <workItem from="1643026212593" duration="14046000" />
-      <workItem from="1643112365621" duration="6489000" />
+      <workItem from="1643112365621" duration="7184000" />
+      <workItem from="1643199051319" duration="6819000" />
     </task>
     <servers />
   </component>
@@ -88,5 +105,21 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="574" y="133" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834/1920.0.1600.870@0.0.1536.834" timestamp="1643057662341" />
+    <state width="1493" height="214" key="GridCell.Tab.0.bottom" timestamp="1643201252909">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1600.870@0.0.1536.834" timestamp="1643201252909" />
+    <state width="1493" height="214" key="GridCell.Tab.0.center" timestamp="1643201252909">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1600.870@0.0.1536.834" timestamp="1643201252909" />
+    <state width="1493" height="214" key="GridCell.Tab.0.left" timestamp="1643201252908">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1600.870@0.0.1536.834" timestamp="1643201252908" />
+    <state width="1493" height="214" key="GridCell.Tab.0.right" timestamp="1643201252909">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1600.870@0.0.1536.834" timestamp="1643201252909" />
   </component>
 </project>
